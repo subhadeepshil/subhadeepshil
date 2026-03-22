@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Still Learning. I Build things that sometimes work. -git commit -m "Trying my best"
+I'm Still Learning. Code works… until it doesn’t.. -while(alive) { code(); sleep(); repeat(); }"
 
 
 ## 🌐 Socials:
